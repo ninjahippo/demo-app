@@ -19,4 +19,4 @@ end
 
 gem 'jquery-rails'
 
-gem 'ninjahippo', :git => 'git://github.com/ninjahippo/gem.git'
+gem 'ninjahippo'

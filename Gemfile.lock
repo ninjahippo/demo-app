@@ -1,10 +1,3 @@
-GIT
-  remote: git://github.com/ninjahippo/gem.git
-  revision: 1ce59e784f883a929b131be20d6d407d9f17eec7
-  specs:
-    ninjahippo (0.0.1)
-      rails (~> 3.2.11)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -59,6 +52,8 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.25.1)
     multi_json (1.10.1)
+    ninjahippo (0.0.1)
+      rails (~> 3.2.11)
     pg (0.17.1)
     polyglot (0.3.5)
     rack (1.4.5)
@@ -118,7 +113,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
   jquery-rails
-  ninjahippo!
+  ninjahippo
   pg
   rails (= 3.2.11)
   rails_12factor
